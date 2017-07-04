@@ -1,0 +1,23 @@
+1. java IDE 설치
+https://www.jetbrains.com/idea/download/#section=windows
+- jetbrains의 intellij
+- eclipse
+  - https://www.eclipse.org/downloads/?
+- NetBeans
+  - https://netbeans.org/
+
+
+2. intellij 실행
+- 실행중 default 설정에서 android
+- new project 선택
+- java
+- No SDK 아래 Download JDK 클릭
+  - http://www.oracle.com/technetwork/java/javase/downloads/index.html
+  - java SE JDK 8u download(8은 자바 1.8버전을 얘기함)
+  - http://download.oracle.com/otn-pub/java/jdk/8u131-b11/d54c1d3a095b4ff2b6607d096fa80163/jdk-8u131-windows-x64.exe
+  - JDK : Java Development Kit
+  - JRE라고도 있는데 이건 Java Runtime Envropment
+- 다운로드 후 설치
+- intellij 끄고 다시시작
+- new project 선택
+- java - project SDK에서 NEW 버튼 누르고 C:\Program Files\Java\jdk1.8.0_131 경로 선택
