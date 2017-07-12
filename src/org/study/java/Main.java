@@ -4,8 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        MainIf.run();
-        Mainfor.run();
+//        MainIf.run();
+//        Mainfor.run();
+        Star.run();
     }
 
 }
